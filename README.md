@@ -9,5 +9,7 @@ Check out my tutorials for the same:
 * [Pandas](https://github.com/Syzygianinfern0/Pandas-Tutorial)
 * [ML using Sklearn](https://github.com/Syzygianinfern0/ML-Tutorial)
 
+# To use GPU for faster computations look at the GPU Support Folder
+
 
 ### Use [This](https://nbviewer.jupyter.org/github/Syzygianinfern0/DL-Tutorial/tree/master/) if you have problems rendering the diffs
